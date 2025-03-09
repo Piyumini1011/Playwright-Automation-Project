@@ -1,0 +1,12 @@
+{
+    "productCode": {
+        "searchKey": "ProductCode",
+        "searchValue": "QA_Auto_Product1"
+    },
+
+
+"productName": {
+    "searchKey": "ProductName",
+    "searchValue": "Automate Product-12"
+}
+}
